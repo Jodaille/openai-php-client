@@ -1,7 +1,7 @@
 <?php
 
 declare(strict_types=1);
-
+namespace OpenAI;
 use OpenAI\Client;
 use OpenAI\Factory;
 
